@@ -1,4 +1,2 @@
-# margins-paddings
+# Margins & Paddings
 CSS margins and paddings styles
-
-# test
